@@ -16,5 +16,5 @@ sudo apt remove fonts-noto-color-emoji
 ```
 > **_NOTE:_** If you have other distro do this step yourself
 ### 3. Refresh fonts and re-login to your DE.
-Enter `fc-cache -f -v` in consolea and re-login.
+Enter `fc-cache -f -v` in console and re-login.
 That's it! ✌️
